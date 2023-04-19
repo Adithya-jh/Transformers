@@ -25,3 +25,7 @@ The Vision Transformer model was trained on the ImageNet dataset using a batch s
 
 # Evaluation
 The fine-tuned Vision Transformer model was evaluated on a held-out validation set from the ImageNet dataset. The top-1 accuracy and top-5 accuracy were used as evaluation metrics. The model achieved a top-1 accuracy of 85% and a top-5 accuracy of 95% on the validation set.
+
+
+
+(https://colab.research.google.com/drive/18lcAtxvFn51-newA-r3ZW1wcimq3PsOT?usp=sharing#scrollTo=6FMoxQU4sBf7)
